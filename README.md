@@ -37,13 +37,13 @@ Future improvements
 ## Screenshots
 
 ### Home Page
-![Home Page](./assets/Home.png)
+![Home Page](FRONTEND/src/assets/Home.png)
 
 ### Appointment Page
-![Appointment Page](./assets/Appointment.png)
+![Appointment Page](FRONTEND/src/assets/Appointment.png)
 
 ### Booking Page
-![Booking Page](./assets/BOOKING.png)
+![Booking Page](FRONTEND/src/assets/BOOKING.png)
 
 There are still a few improvements that can be made such as adding user login, improving the UI, and adding more advanced features like medical records and reports.
 
