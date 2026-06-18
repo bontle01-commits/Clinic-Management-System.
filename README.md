@@ -34,15 +34,16 @@ BACKEND (server-side logic)
 FRONTEND (user interface)
 Future improvements
 
-Screenshots
+## Screenshots
 
-You can see some screenshots of the system below:
+### Home Page
+![Home Page](./assets/Home.png)
 
-Home Page
+### Appointment Page
+![Appointment Page](./assets/Appointment.png)
 
-Appointment Page
-
-Booking Page
+### Booking Page
+![Booking Page](./assets/BOOKING.png)
 
 There are still a few improvements that can be made such as adding user login, improving the UI, and adding more advanced features like medical records and reports.
 
